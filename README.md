@@ -2,7 +2,7 @@ Documentation utilisateur
 
 Le code est le fichier projet2.cpp, mais nous utilisons aussi dr_wav.h, pour lire les fichiers .wav : ce n'est pas moi qui l'ai écrite, elle est disponible sur Internet
 
-Pour compiler : g++ projet.cpp -o projet
+Pour compiler : g++ projet2.cpp -o projet
 Pour exécuter : ./projet
 
 Il vous sera demandé : Voulez vous traduire depuis le morse ou depuis le latin ?
